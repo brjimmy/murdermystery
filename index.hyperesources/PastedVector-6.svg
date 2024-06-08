@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1135.72 772">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #464c4d;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1101.71,0H34.01C14.97,0,0,14.67,0,33.71v703.04c0,19.04,14.97,35.25,34.01,35.25h1067.69c19.04,0,34.01-16.21,34.01-35.25V33.71c0-19.04-14.97-33.71-34.01-33.71Z"/>
+</svg>
